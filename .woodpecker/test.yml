@@ -6,3 +6,4 @@ when:
 steps:
   prettier:
     image: woodpeckerci/plugin-prettier:next
+    asd:  123
