@@ -1,0 +1,8 @@
+when:
+  - event: [tag, pull_request]
+  - event: push
+    branch: ${CI_REPO_DEFAULT_BRANCH}
+
+steps:
+  prettier:
+    image: woodpeckerci/plugin-prettier:next
