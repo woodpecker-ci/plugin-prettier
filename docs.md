@@ -1,6 +1,6 @@
 ---
 name: Prettier
-icon: https://woodpecker-ci.org/img/logo.svg
+icon: https://raw.githubusercontent.com/woodpecker-ci/plugin-prettier/main/prettier.png
 description: This plugin can be used to check if a repository is following prettier rules.
 authors: Woodpecker Authors
 tags: [lint, test, prettier]
@@ -9,7 +9,7 @@ containerImageUrl: https://hub.docker.com/r/woodpeckerci/plugin-prettier
 url: https://github.com/woodpecker-ci/plugin-prettier
 ---
 
-This plugin can be used to check if a repository is following prettier rules.
+This plugin can be used to check if a repository is following [prettier](https://prettier.io/) rules.
 
 ## Sample
 
