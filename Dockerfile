@@ -2,8 +2,9 @@ FROM node:18-alpine
 
 ENV NODE_ENV=production
 
-RUN npm install --frozen-lockfile
+WORKDIR /app
 
-RUN "prettier --version"
+RUN npm install --global prettier@3
 
-CMD prettier --check .
+ENTRYPOINT ["prettier"]
+CMD ["--check", "."]

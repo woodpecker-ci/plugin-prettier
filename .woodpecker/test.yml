@@ -1,0 +1,11 @@
+depends_on:
+  - test
+
+steps:
+  prettier:
+    image: woodpeckerci/plugin-prettier:next
+    when:
+      event:
+        - pull_request
+        - tag
+        - push

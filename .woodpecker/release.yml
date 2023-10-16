@@ -1,3 +1,6 @@
+depends_on:
+  - test
+
 steps:
   dryrun:
     image: woodpeckerci/plugin-docker-buildx:2.1.0
@@ -35,3 +38,4 @@ steps:
     secrets: [docker_password]
     when:
       event: tag
+a
