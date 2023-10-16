@@ -38,4 +38,3 @@ steps:
     secrets: [docker_password]
     when:
       event: tag
-a
