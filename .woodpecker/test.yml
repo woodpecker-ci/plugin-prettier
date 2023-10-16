@@ -1,9 +1,9 @@
 when:
   - event: [tag, pull_request]
   - event: push
-    branch: ${CI_DEFAULT_BRANCH}
+    branch: ${CI_REPO_DEFAULT_BRANCH}
 
 steps:
   prettier:
     image: woodpeckerci/plugin-prettier:next
-    asd:  123
+    asd: 123
