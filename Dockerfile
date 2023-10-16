@@ -6,5 +6,6 @@ WORKDIR /app
 
 RUN npm install --global prettier@3
 
-ENTRYPOINT ["prettier"]
-CMD ["--check", "."]
+COPY entrypoint.sh /entrypoint.sh
+
+ENTRYPOINT ["/entrypoint.sh"]
