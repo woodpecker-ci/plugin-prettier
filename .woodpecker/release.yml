@@ -1,6 +1,11 @@
 depends_on:
   - test
 
+when:
+  - event: [tag, pull_request]
+  - event: push
+    branch: ${CI_DEFAULT_BRANCH}
+
 steps:
   dryrun:
     image: woodpeckerci/plugin-docker-buildx:2.1.0
