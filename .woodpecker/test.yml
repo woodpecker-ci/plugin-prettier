@@ -1,24 +1,8 @@
-steps:
-  install:
-    image: node:18-alpine
-    commands:
-      - corepack enable
-      - pnpm i
-
-  unit-test:
-    image: node:18-alpine
-    commands:
-      - corepack enable
-      - pnpm test
-
-  typecheck:
-    image: node:18-alpine
-    commands:
-      - corepack enable
-      - pnpm typecheck
-
 when:
-  - event: pull_request
+  - event: [tag, pull_request]
   - event: push
-    branch: main
-  - event: tag
+    branch: ${CI_REPO_DEFAULT_BRANCH}
+
+steps:
+  prettier:
+    image: woodpeckerci/plugin-prettier:next
