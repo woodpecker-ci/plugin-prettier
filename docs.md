@@ -9,6 +9,8 @@ containerImageUrl: https://hub.docker.com/r/woodpeckerci/plugin-prettier
 url: https://github.com/woodpecker-ci/plugin-prettier
 ---
 
+# plugin-prettier
+
 This plugin can be used to check if a repository is following [prettier](https://prettier.io/) rules.
 
 ## Sample
