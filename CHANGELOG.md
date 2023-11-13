@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.0.2](https://github.com/woodpecker-ci/plugin-prettier/releases/tag/0.0.2) - 2023-11-13
+
+### ❤️ Thanks to all contributors! ❤️
+
+@renovate[bot]
+
+### Misc
+
+- Update woodpeckerci/plugin-docker-buildx Docker tag to v2.2.0 [[#8](https://github.com/woodpecker-ci/plugin-prettier/pull/8)]
+
 ## [0.0.1](https://github.com/woodpecker-ci/plugin-prettier/releases/tag/0.0.1) - 2023-11-11
 
 ### ❤️ Thanks to all contributors! ❤️
