@@ -1,6 +1,6 @@
 # Changelog
 
-## [0.0.2](https://github.com/woodpecker-ci/plugin-prettier/releases/tag/0.0.2) - 2023-11-21
+## [0.0.2](https://github.com/woodpecker-ci/plugin-prettier/releases/tag/0.0.2) - 2023-11-26
 
 ### ❤️ Thanks to all contributors! ❤️
 
@@ -8,6 +8,7 @@
 
 ### Misc
 
+- Update woodpeckerci/plugin-ready-release-go Docker tag to v1.0.3 [[#11](https://github.com/woodpecker-ci/plugin-prettier/pull/11)]
 - Update woodpeckerci/plugin-docker-buildx Docker tag to v2.2.1 [[#10](https://github.com/woodpecker-ci/plugin-prettier/pull/10)]
 - Update woodpeckerci/plugin-docker-buildx Docker tag to v2.2.0 [[#8](https://github.com/woodpecker-ci/plugin-prettier/pull/8)]
 
