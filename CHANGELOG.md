@@ -1,10 +1,14 @@
 # Changelog
 
-## [0.0.2](https://github.com/woodpecker-ci/plugin-prettier/releases/tag/0.0.2) - 2024-01-07
+## [0.0.2](https://github.com/woodpecker-ci/plugin-prettier/releases/tag/0.0.2) - 2024-01-14
 
 ### ❤️ Thanks to all contributors! ❤️
 
-@renovate[bot], @pre-commit-ci[bot]
+@qwerty287, @renovate[bot], @pre-commit-ci[bot]
+
+### 📚 Documentation
+
+- Fix author key [[#15](https://github.com/woodpecker-ci/plugin-prettier/pull/15)]
 
 ### Misc
 
