@@ -2,7 +2,7 @@
 name: Prettier
 icon: https://raw.githubusercontent.com/woodpecker-ci/plugin-prettier/main/prettier.png
 description: This plugin can be used to check if a repository is following prettier rules.
-authors: Woodpecker Authors
+author: Woodpecker Authors
 tags: [lint, test, prettier]
 containerImage: woodpeckerci/plugin-prettier
 containerImageUrl: https://hub.docker.com/r/woodpeckerci/plugin-prettier
