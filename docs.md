@@ -23,6 +23,7 @@ steps:
 
 ## Settings
 
-| Settings Name | Default | Description                                 |
-| ------------- | ------- | ------------------------------------------- |
-| `path`        | `.`     | If specified, it checks in a specified path |
+| Settings Name | Default | Description                                      |
+| ------------- | ------- | ------------------------------------------------ |
+| `path`        | `.`     | If specified, it checks in a specified path      |
+| `version`     | empty   | If specified, this prettier version is installed |
