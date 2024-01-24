@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.2.0](https://github.com/woodpecker-ci/plugin-prettier/releases/tag/0.2.0) - 2024-01-24
+
+### ❤️ Thanks to all contributors! ❤️
+
+@qwerty287
+
+### 📈 Enhancement
+
+- Allow to read version from lockfile [[#20](https://github.com/woodpecker-ci/plugin-prettier/pull/20)]
+
 ## [0.1.0](https://github.com/woodpecker-ci/plugin-prettier/releases/tag/0.1.0) - 2024-01-22
 
 ### ❤️ Thanks to all contributors! ❤️
