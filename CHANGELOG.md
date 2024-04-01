@@ -1,6 +1,6 @@
 # Changelog
 
-## [0.2.0](https://github.com/woodpecker-ci/plugin-prettier/releases/tag/0.2.0) - 2024-03-18
+## [0.2.0](https://github.com/woodpecker-ci/plugin-prettier/releases/tag/0.2.0) - 2024-04-01
 
 ### ❤️ Thanks to all contributors! ❤️
 
@@ -12,6 +12,7 @@
 
 ### Misc
 
+- Update woodpeckerci/plugin-docker-buildx Docker tag to v3.2.1 [[#27](https://github.com/woodpecker-ci/plugin-prettier/pull/27)]
 - Update woodpeckerci/plugin-docker-buildx Docker tag to v3.2.0 [[#26](https://github.com/woodpecker-ci/plugin-prettier/pull/26)]
 - Update woodpeckerci/plugin-docker-buildx Docker tag to v3.1.0 [[#25](https://github.com/woodpecker-ci/plugin-prettier/pull/25)]
 - [pre-commit.ci] pre-commit autoupdate [[#24](https://github.com/woodpecker-ci/plugin-prettier/pull/24)]
