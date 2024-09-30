@@ -1,9 +1,10 @@
 # Changelog
 
-## [0.2.1](https://github.com/woodpecker-ci/plugin-prettier/releases/tag/0.2.1) - 2024-09-28
+## [0.2.1](https://github.com/woodpecker-ci/plugin-prettier/releases/tag/0.2.1) - 2024-09-30
 
 ### 📦️ Dependency
 
+- Update pre-commit hook igorshubovych/markdownlint-cli to v0.42.0 [[#44](https://github.com/woodpecker-ci/plugin-prettier/pull/44)]
 - Update woodpeckerci/plugin-ready-release-go Docker tag to v2 [[#42](https://github.com/woodpecker-ci/plugin-prettier/pull/42)]
 
 ## [0.2.0](https://github.com/woodpecker-ci/plugin-prettier/releases/tag/0.2.0) - 2024-08-26
