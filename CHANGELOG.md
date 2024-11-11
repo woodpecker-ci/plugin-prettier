@@ -2,6 +2,10 @@
 
 ## [0.2.1](https://github.com/woodpecker-ci/plugin-prettier/releases/tag/0.2.1) - 2024-11-11
 
+### ❤️ Thanks to all contributors! ❤️
+
+@qwerty287
+
 ### 📦️ Dependency
 
 - Update woodpeckerci/plugin-ready-release-go Docker tag to v2.1.1 [[#50](https://github.com/woodpecker-ci/plugin-prettier/pull/50)]
@@ -12,6 +16,7 @@
 
 ### Misc
 
+- Add codeberg note [[#49](https://github.com/woodpecker-ci/plugin-prettier/pull/49)]
 - [pre-commit.ci] pre-commit autoupdate [[#46](https://github.com/woodpecker-ci/plugin-prettier/pull/46)]
 
 ## [0.2.0](https://github.com/woodpecker-ci/plugin-prettier/releases/tag/0.2.0) - 2024-08-26
