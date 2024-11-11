@@ -1,4 +1,4 @@
-# MOVED TO https://codeberg.org/woodpecker-plugins/prettier
+# MOVED TO <https://codeberg.org/woodpecker-plugins/prettier>
 
 # :lipstick: Prettier
 
